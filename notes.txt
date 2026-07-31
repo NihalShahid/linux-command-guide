@@ -1,0 +1,19 @@
+Linux Command Guide - Notes
+
+These notes contain commonly used Linux commands for beginners.
+
+Basic Commands:
+
+* pwd       : Show current working directory
+* ls        : List files and directories
+* cd        : Change directory
+* mkdir     : Create a new directory
+* touch     : Create an empty file
+* cp        : Copy files or directories
+* mv        : Move or rename files
+* rm        : Delete files or directories
+* cat       : Display file contents
+* clear     : Clear the terminal screen
+
+Learning Goal:
+Practice Linux commands regularly to improve terminal navigation, file management, and command-line skills.
