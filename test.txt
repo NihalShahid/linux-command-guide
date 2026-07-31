@@ -1,0 +1,19 @@
+Linux Command Guide - Practice Notes
+
+This file is used to practice basic Linux terminal commands.
+
+Commands Covered:
+
+* pwd      : Show current directory
+* ls       : List files and folders
+* cd       : Change directory
+* mkdir    : Create a new directory
+* touch    : Create a new file
+* cp       : Copy files or directories
+* mv       : Move or rename files
+* rm       : Remove files or directories
+* cat      : Display file contents
+* clear    : Clear the terminal screen
+
+Purpose:
+This file serves as a quick reference while learning and practicing Linux commands.
